@@ -1,4 +1,5 @@
 # CineTag
+![cinetag-git](https://github.com/Quitandir/CineTag/assets/109114941/b3d4fd29-6917-426b-90cf-c5d3e7d137ea)
 
 CineTag is a page where you can watch videos from our database and favorite them. 
 
@@ -8,7 +9,7 @@ This project was developed during a course about React. The aim was using React 
 
 ## Access
 
-You can access the project here: 
+You can access the project here: https://cine-tag-smoky.vercel.app/
 
 
 
